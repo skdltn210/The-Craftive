@@ -25,10 +25,10 @@ https://github.com/skdltn210/TheCraftive/assets/113167709/cbad6ae6-2add-42c6-a6c
 * 커스텀, 네이버, 카카오 로그인은 email이 같으면 같은 유저로 관리
 
 ## 관리자 페이지
+
 <img width="621" alt="Admin" src="https://github.com/skdltn210/TheCraftive/assets/113167709/0be186f5-e4b8-4093-bc7c-a69cb97ddb62">
 
 <img width="1240" alt="image" src="https://github.com/skdltn210/TheCraftive/assets/113167709/d344599a-d844-40b6-8672-31b20c51135a">
-
 
 * 관리자 권한 부여하여 상품등록
 * 이미지는 aws s3에 저장, 데이터베이스엔 이미지 경로 저장
@@ -49,13 +49,7 @@ https://github.com/skdltn210/TheCraftive/assets/113167709/4404dd19-2452-4b61-8a7
 
 ### 원데이클래스
 
-<img width="620" alt="image" src="https://github.com/skdltn210/TheCraftive/assets/113167709/c0e7d311-ad00-4e48-b861-f01f08b0d6a6">
-
-
-
 https://github.com/skdltn210/TheCraftive/assets/113167709/2c0b9aae-281b-46d6-905f-ed4ca5908479
-
-
 
 * 관리자가 유저에게 작가 권한 부여 후 원데이클래스 등록
 * 사용자의 현재 위치로 지도 위치 설정
