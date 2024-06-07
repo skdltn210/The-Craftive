@@ -1,0 +1,45 @@
+.weekday-container {
+  display: flex;
+}
+
+.weekday {
+  width: 40px;
+  height: 175px;
+  border: 1px solid #ccc;
+  text-align: center;
+  line-height: 175px;
+}
+
+.orange-bg {
+  background-color: orange;
+}
+
+.green-bg {
+  background-color: green;
+}
+
+.save-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.save-button:hover {
+  background-color: #0056b3;
+}
+
+.time-input {
+  width: 150px;
+  height: 30px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.remove-time-button {
+  margin-left: 5px;
+  cursor: pointer;
+}
